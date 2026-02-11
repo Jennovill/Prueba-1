@@ -1,1 +1,42 @@
-
+[
+  {
+    "Distrito": "NUEVA PROSPERINA",
+    "tasa": 77.2629
+  },
+  {
+    "Distrito": "MODELO",
+    "tasa": 77.2355
+  },
+  {
+    "Distrito": "PASCUALES",
+    "tasa": 69.433
+  },
+  {
+    "Distrito": "SUR",
+    "tasa": 63.9151
+  },
+  {
+    "Distrito": "FLORIDA",
+    "tasa": 51.3106
+  },
+  {
+    "Distrito": "PROGRESO",
+    "tasa": 49.4206
+  },
+  {
+    "Distrito": "PORTETE",
+    "tasa": 43.1392
+  },
+  {
+    "Distrito": "ESTEROS",
+    "tasa": 41.2447
+  },
+  {
+    "Distrito": "9 DE OCTUBRE",
+    "tasa": 40.8505
+  },
+  {
+    "Distrito": "CEIBOS",
+    "tasa": 5.4631
+  }
+]
