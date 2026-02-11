@@ -1,1 +1,158 @@
-
+[
+  {
+    "variable": "9 DE OCTUBRE",
+    "x": 0.1287,
+    "y": -0.2866,
+    "_row": "9 DE OCTUBRE"
+  },
+  {
+    "variable": "CEIBOS",
+    "x": 0.2297,
+    "y": -0.2426,
+    "_row": "CEIBOS"
+  },
+  {
+    "variable": "ESTEROS",
+    "x": 0.0287,
+    "y": 0.0077,
+    "_row": "ESTEROS"
+  },
+  {
+    "variable": "FLORIDA",
+    "x": -0.0584,
+    "y": 0.034,
+    "_row": "FLORIDA"
+  },
+  {
+    "variable": "MODELO",
+    "x": 0.0981,
+    "y": -0.2658,
+    "_row": "MODELO"
+  },
+  {
+    "variable": "NUEVA PROSPERINA",
+    "x": -0.0438,
+    "y": 0.5401,
+    "_row": "NUEVA PROSPERINA"
+  },
+  {
+    "variable": "PASCUALES",
+    "x": 0.0566,
+    "y": -0.0516,
+    "_row": "PASCUALES"
+  },
+  {
+    "variable": "PORTETE",
+    "x": -0.1464,
+    "y": -0.2022,
+    "_row": "PORTETE"
+  },
+  {
+    "variable": "PROGRESO",
+    "x": -0.0718,
+    "y": 0.0363,
+    "_row": "PROGRESO"
+  },
+  {
+    "variable": "SUR",
+    "x": -0.0913,
+    "y": 0.1119,
+    "_row": "SUR"
+  },
+  {
+    "variable": "Amenazas (sin extorsión explícita)",
+    "x": -0.3781,
+    "y": -0.2541,
+    "_row": "Amenazas (sin extorsión explícita)"
+  },
+  {
+    "variable": "Extorsión Presencial / Directa",
+    "x": 0.446,
+    "y": 0.6851,
+    "_row": "Extorsión Presencial / Directa"
+  },
+  {
+    "variable": "Extorsión Telefónica / Digital",
+    "x": 0.2285,
+    "y": -0.5807,
+    "_row": "Extorsión Telefónica / Digital"
+  },
+  {
+    "variable": "Extorsión Vehicular",
+    "x": -0.1501,
+    "y": 1.249,
+    "_row": "Extorsión Vehicular"
+  },
+  {
+    "variable": "Fraude / Estafa",
+    "x": 0.0615,
+    "y": 1.6098,
+    "_row": "Fraude / Estafa"
+  },
+  {
+    "variable": "Otros / No clasificados",
+    "x": -0.044,
+    "y": 0.1151,
+    "_row": "Otros / No clasificados"
+  },
+  {
+    "variable": "Panfletos Extorsivos",
+    "x": -0.0293,
+    "y": 0.6179,
+    "_row": "Panfletos Extorsivos"
+  },
+  {
+    "variable": "peligrosidad_1",
+    "x": 0.6545,
+    "y": 1.7954,
+    "_row": "peligrosidad_1"
+  },
+  {
+    "variable": "peligrosidad_2",
+    "x": -0.2326,
+    "y": 3.2541,
+    "_row": "peligrosidad_2"
+  },
+  {
+    "variable": "peligrosidad_3",
+    "x": -0.2684,
+    "y": 1.7725,
+    "_row": "peligrosidad_3"
+  },
+  {
+    "variable": "peligrosidad_4",
+    "x": -0.5211,
+    "y": -0.3803,
+    "_row": "peligrosidad_4"
+  },
+  {
+    "variable": "peligrosidad_5",
+    "x": -0.6472,
+    "y": -0.728,
+    "_row": "peligrosidad_5"
+  },
+  {
+    "variable": "peligrosidad_No especificado",
+    "x": 1.9068,
+    "y": -0.1534,
+    "_row": "peligrosidad_No especificado"
+  },
+  {
+    "variable": "amenaza_muerte.NA",
+    "x": 2.0107,
+    "y": -0.2591,
+    "_row": "amenaza_muerte.NA"
+  },
+  {
+    "variable": "amenaza_muerte_0",
+    "x": -0.1532,
+    "y": 1.6763,
+    "_row": "amenaza_muerte_0"
+  },
+  {
+    "variable": "amenaza_muerte_1",
+    "x": -0.5431,
+    "y": -0.4721,
+    "_row": "amenaza_muerte_1"
+  }
+]
