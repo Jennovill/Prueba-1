@@ -5,7 +5,7 @@ Plataforma web desarrollada para visualizar, analizar y comprender el fenómeno 
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 El proyecto tiene como finalidad:
 
@@ -15,7 +15,7 @@ El proyecto tiene como finalidad:
 - Generar predicciones estadísticas.
 - Facilitar el acceso a información clara y verificable.
 
-## 🏛 Contexto Académico
+## Contexto Académico
 
 Proyecto desarrollado en el marco académico de la  
 **Facultad de Ciencias Naturales y Matemáticas – ESPOL**,  
